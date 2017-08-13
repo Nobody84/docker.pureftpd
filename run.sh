@@ -29,4 +29,3 @@ echo "Starting Pure-FTPd:"
 echo "  pure-ftpd $PURE_FTPD_FLAGS"
 
 # start pureftpd with requested flags
-exec /usr/sbin/pure-ftpd $PURE_FTPD_FLAGS
